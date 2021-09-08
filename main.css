@@ -1,0 +1,38 @@
+/* button {
+    margin-top: 50px;
+    border: none;
+    outline: none;
+    padding: 1rem 2rem;
+    background-color: moccasin;
+    color: rgb(40, 43, 226);
+    cursor: pointer;
+}
+
+.focus {
+    transform: scale(1);
+    background-color: red;
+    color: rgb(128, 216, 112);
+} */
+
+
+
+
+
+
+
+
+button {
+    padding: 1rem 1.5rem;
+    border: none;
+    outline: none;
+margin: 50px ;
+}
+
+button:focus {
+    transform: scale(0.9);
+}
+
+.btn1 {
+    background-color: red;
+    color: white;
+}
